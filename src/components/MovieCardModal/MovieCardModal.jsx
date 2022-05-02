@@ -10,6 +10,7 @@ export function MovieCardModal(props) {
         <Card.Img
           variant='top'
           src={`https://image.tmdb.org/t/p/original/${details.poster_path}`}
+          alt={`Movie poster for ${details.title}`}
         />
         <Card.Body>
           <div className='d-flex justify-content-between align-items-end'>

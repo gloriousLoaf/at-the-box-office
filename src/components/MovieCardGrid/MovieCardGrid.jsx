@@ -12,14 +12,18 @@ export function MovieCardGrid({ data }) {
     setDetails(datum);
     setShowDetailsModal(true);
   };
-
+  console.log('data:', data);
   return (
     <>
       <Row xs={1} md={2} lg={3} className='g-4'>
         {data.map((datum, idx) => (
           <Col key={idx}>
             <Card>
-              <Card.Img variat='top' src={datum.backdrop_path} />
+              <Card.Img
+                variant='top'
+                src={datum.backdrop_path}
+                alt={`Promo backdrop for ${datum.title}`}
+              />
               <Card.Body className='movie-card'>
                 <Card.Title>{datum.title}</Card.Title>
                 <Card.Text>
