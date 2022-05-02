@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/at-the-box-office/static/css/main.b695c81b.css",
+    "main.js": "/at-the-box-office/static/js/main.875a1e24.js",
+    "index.html": "/at-the-box-office/index.html",
+    "main.b695c81b.css.map": "/at-the-box-office/static/css/main.b695c81b.css.map",
+    "main.875a1e24.js.map": "/at-the-box-office/static/js/main.875a1e24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b695c81b.css",
+    "static/js/main.875a1e24.js"
+  ]
+}
