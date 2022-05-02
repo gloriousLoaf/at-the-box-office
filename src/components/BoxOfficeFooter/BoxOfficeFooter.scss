@@ -1,12 +1,11 @@
-.header-wrapper {
+.footer-wrapper {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 1rem;
+  padding: 1.5rem;
   color: #eee;
 
-  h1 {
-    font-size: 2rem;
-    font-weight: 400;
+  p {
+    font-weight: 500;
   }
 }

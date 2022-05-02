@@ -6,7 +6,6 @@ export function BoxOfficeHeader() {
     <Row>
       <Col className='header-wrapper'>
         <h1>At The Box Office</h1>
-        <p>Check the latest hits!</p>
       </Col>
     </Row>
   );

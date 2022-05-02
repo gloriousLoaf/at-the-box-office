@@ -1,11 +1,7 @@
 [
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/eENEf62tMXbhyVvdcXlnQz2wcuT.jpg",
-    "genre_ids": [
-      878,
-      28,
-      12
-    ],
+    "genre_ids": [878, 28, 12],
     "id": 580489,
     "original_language": "en",
     "original_title": "Venom: Let There Be Carnage",
@@ -20,12 +16,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/VlHt27nCqOuTnuX6bku8QZapzO.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878,
-      14
-    ],
+    "genre_ids": [28, 12, 878, 14],
     "id": 634649,
     "original_language": "en",
     "original_title": "Spider-Man: No Way Home",
@@ -40,12 +31,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/7ajHGIAYNMiIzejy1LJWdPrcAx8.jpg",
-    "genre_ids": [
-      28,
-      35,
-      80,
-      53
-    ],
+    "genre_ids": [28, 35, 80, 53],
     "id": 512195,
     "original_language": "en",
     "original_title": "Red Notice",
@@ -60,11 +46,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14
-    ],
+    "genre_ids": [28, 12, 14],
     "id": 566525,
     "original_language": "en",
     "original_title": "Shang-Chi and the Legend of the Ten Rings",
@@ -79,12 +61,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/5RuR7GhOI5fElADXZb0X2sr9w5n.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      14
-    ],
+    "genre_ids": [16, 35, 10751, 14],
     "id": 568124,
     "original_language": "en",
     "original_title": "Encanto",
@@ -99,11 +76,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/1Wlwnhn5sXUIwlxpJgWszT622PS.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751
-    ],
+    "genre_ids": [16, 35, 10751],
     "id": 585245,
     "original_language": "en",
     "original_title": "Clifford the Big Red Dog",
@@ -118,11 +91,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/mFbS5TwN95BcSEfiztdchLgTQ0v.jpg",
-    "genre_ids": [
-      28,
-      18,
-      36
-    ],
+    "genre_ids": [28, 18, 36],
     "id": 617653,
     "original_language": "en",
     "original_title": "The Last Duel",
@@ -137,11 +106,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/5RMqFZdefnDwY7rdD1oJcTkWPdF.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751
-    ],
+    "genre_ids": [16, 35, 10751],
     "id": 774741,
     "original_language": "en",
     "original_title": "Diary of a Wimpy Kid",
@@ -156,12 +121,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/t27k4502Gzvln1At8iA0DMOd0mt.jpg",
-    "genre_ids": [
-      16,
-      878,
-      10751,
-      35
-    ],
+    "genre_ids": [16, 878, 10751, 35],
     "id": 482321,
     "original_language": "en",
     "original_title": "Ron's Gone Wrong",
@@ -176,11 +136,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/xGrTm3J0FTafmuQ85vF7ZCw94x6.jpg",
-    "genre_ids": [
-      18,
-      36,
-      12
-    ],
+    "genre_ids": [18, 36, 12],
     "id": 589761,
     "original_language": "ru",
     "original_title": "Чернобыль",
@@ -195,11 +151,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/upOi9aVqPPky7Ba4GsiyFdjc82I.jpg",
-    "genre_ids": [
-      37,
-      28,
-      53
-    ],
+    "genre_ids": [37, 28, 53],
     "id": 887767,
     "original_language": "en",
     "original_title": "Last Shoot Out",
@@ -214,13 +166,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/lyvszvJJqqI8aqBJ70XzdCNoK0y.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18,
-      14,
-      878
-    ],
+    "genre_ids": [28, 12, 18, 14, 878],
     "id": 524434,
     "original_language": "en",
     "original_title": "Eternals",
@@ -235,11 +181,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg",
-    "genre_ids": [
-      12,
-      28,
-      53
-    ],
+    "genre_ids": [12, 28, 53],
     "id": 370172,
     "original_language": "en",
     "original_title": "No Time to Die",
@@ -254,12 +196,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878,
-      18
-    ],
+    "genre_ids": [28, 12, 878, 18],
     "id": 315635,
     "original_language": "en",
     "original_title": "Spider-Man: Homecoming",
@@ -274,11 +211,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
+    "genre_ids": [28, 12, 878],
     "id": 429617,
     "original_language": "en",
     "original_title": "Spider-Man: Far From Home",
@@ -293,11 +226,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/sLWUtbrpiLp23a0XDSiUiltdFPJ.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14
-    ],
+    "genre_ids": [28, 12, 14],
     "id": 1930,
     "original_language": "en",
     "original_title": "The Amazing Spider-Man",
@@ -312,10 +241,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/7h5WAPAcUzOWpp2jrwHBB48790j.jpg",
-    "genre_ids": [
-      16,
-      28
-    ],
+    "genre_ids": [16, 28],
     "id": 843241,
     "original_language": "ja",
     "original_title": "劇場版 七つの大罪 光に呪われし者たち",
@@ -330,12 +256,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
-    "genre_ids": [
-      35,
-      28,
-      12,
-      878
-    ],
+    "genre_ids": [35, 28, 12, 878],
     "id": 550988,
     "original_language": "en",
     "original_title": "Free Guy",
@@ -350,13 +271,11 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/3cMfwbF1J9fglSssim4zKG6scIs.jpg",
-    "genre_ids": [
-      28
-    ],
+    "genre_ids": [28],
     "id": 876262,
     "original_language": "pt",
     "original_title": "Garota da Moto",
-    "overview": "",
+    "overview": "Joana, a young mother who works as a motogirl, accidentally discovers a factory where refugee women are exploited as slaves. She confronts the bad guys and sets the women free, but she brings a new problem to herself. The head of the security scheme that controlled the exploitation scheme needs to prove his effectiveness after this failure. For that, he decides that he will kill Joana and whoever else is with her, so that they can serve as an example. An ambush is set up for when Joana and her son, Nico, will be participating in a collective effort at the boy's school. Joana, who is an excellent fighter, will have to defend not only her son and herself, but everyone at school from a bunch of heavily armed criminals with orders to exterminate whoever is in front of them.",
     "popularity": 986.608,
     "poster_path": "/sYoWjGSW4XQRWwFDHf3kdMqtCLr.jpg",
     "release_date": "2021-09-23",
@@ -367,10 +286,7 @@
   },
   {
     "backdrop_path": "https://image.tmdb.org/t/p/original/aBoHKFFue7TcjRIvoSdvFaS4Kie.jpg",
-    "genre_ids": [
-      80,
-      18
-    ],
+    "genre_ids": [80, 18],
     "id": 716810,
     "original_language": "fi",
     "original_title": "Sorjonen: Muraalimurhat",
